@@ -1,6 +1,7 @@
 # 2025
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
+| [ICLR](https://iclr.cc/Conferences/2025) | April 24-28 | Singapore | September 27 | A++ |
 | [BIOSTEC](https://bioimaging.scitevents.org/Home.aspx) | February 20-22 | Porto / Portugal | October 2 | N/A |
 | [AISTATS](https://aistats.org/aistats2025/index.html) | May 3-5 | Phuket / Thailand | October 3 | A+ |
 | [ISBI](https://biomedicalimaging.org/2025/) | April 14-17 | Houston / USA | October 11 | B |
