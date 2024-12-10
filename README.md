@@ -1,6 +1,7 @@
 # 2025
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
+| [IMIP](https://www.imip.org/index.html) | March 28-31 | Kyoto / Japan | January 5 | N/A |
 | [ICHI](https://events.dimes.unical.it/ichi2025/) | June 18-21 | Rende / Italy | January 7 | N/A |
 | [IJCNN](https://2025.ijcnn.org/) | June 30 - July 5 | Rome / Italy | January 15 | A- |
 | [MIDL](https://2025.midl.io/) | July 9-11 | Salt Lake City / USA | January 17 | N/A |
