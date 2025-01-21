@@ -1,11 +1,14 @@
+# 2026
+| Name | Dates | Place | Deadline | GGS |
+| ---- | ----- | ----- | -------- | --- |
+| [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December | A- |
+
 # 2025
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
-| [IMIP](https://www.imip.org/index.html) | March 28-31 | Kyoto / Japan | January 5 | N/A |
-| [ICHI](https://events.dimes.unical.it/ichi2025/) | June 18-21 | Rende / Italy | January 7 | N/A |
-| [IJCNN](https://2025.ijcnn.org/) | June 30 - July 5 | Rome / Italy | January 15 | A- |
-| [MIDL](https://2025.midl.io/) | July 9-11 | Salt Lake City / USA | January 17 | N/A |
-| [EMBC](https://embc.embs.org/2025/) | July 14-18 | Copenhagen / Denmark | January 17 | A- |
+| [IMIP](https://www.imip.org/index.html) | March 28-31 | Kyoto / Japan | January 30 | N/A |
+| [IJCNN](https://2025.ijcnn.org/) | June 30 - July 5 | Rome / Italy | January 30 | A- |
+| [EMBC](https://embc.embs.org/2025/) | July 14-18 | Copenhagen / Denmark | January 31 | A- |
 | [MLIC](https://www.icmlic.org/) | April 25-27 | Zhengzhou / China | February 1 | N/A |
 | [MICCAI](https://conferences.miccai.org/2025/en/default.asp) | September 23-27 | Daejeon / Korea | February 13 | A | 
 | [CBMS](https://2025.cbms-conference.org/) | June 18-20 | Madrid / Spain | March 7 | B |
@@ -14,6 +17,8 @@
 | [BIBM](https://ieeebibm.org/) | Early December | Wuhan / China | TBA | C |
 |  |  |  |  |  |
 |  |  |  |  |  |
+| [MIDL](https://2025.midl.io/) | July 9-11 | Salt Lake City / USA | January 17 | N/A |
+| [ICHI](https://events.dimes.unical.it/ichi2025/) | June 18-21 | Rende / Italy | January 7 | N/A |
 | [CVPR](https://cvpr.thecvf.com/Conferences/2025) | June 10-17 | Nashville / USA | November 14 | A++ |
 | [IPCAI](https://sites.google.com/view/ipcai2025/home) | June 17-18 | Berlin / Germany | October 16 | N/A | 
 | [ISBI](https://biomedicalimaging.org/2025/) | April 14-17 | Houston / USA | October 11 | B |
