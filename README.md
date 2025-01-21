@@ -12,6 +12,7 @@
 | [MLIC](https://www.icmlic.org/) | April 25-27 | Zhengzhou / China | February 1 | N/A |
 | [MICCAI](https://conferences.miccai.org/2025/en/default.asp) | September 23-27 | Daejeon / Korea | February 13 | A | 
 | [CBMS](https://2025.cbms-conference.org/) | June 18-20 | Madrid / Spain | March 7 | B |
+| [MVA](https://mva-org.jp/mva2025/index) | July 26-28 | Kyoto / Japan | March 31 | B- |
 | [ICIAP](https://sites.google.com/view/iciap25/home) | September 15-19 | Rome / Italy | April 15 | B |  
 | [ECAI](https://ecai2025.org/) | October 27-31 | Bologna / Italy | April 29 | A- |
 | [BIBM](https://ieeebibm.org/) | Early December | Wuhan / China | TBA | C |
