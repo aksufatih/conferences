@@ -1,6 +1,7 @@
 # 2026
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
+| [AAAI](https://aaai.org/conference/aaai/aaai-26/) | January 20-27 | Singapore | TBA | A++ |
 | [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December | A- |
 
 # 2025
