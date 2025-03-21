@@ -12,7 +12,7 @@
 | [ICIAP](https://sites.google.com/view/iciap25/home) | September 15-19 | Rome / Italy | April 15 | B |  
 | [ECAI](https://ecai2025.org/) | October 27-31 | Bologna / Italy | April 29 | A- |
 | [ICTAI]() | November 03-05 | Athens / Greece | June 12 | B |
-| [BIBM]([https://ieeebibm.org/](https://biod.whu.edu.cn/bibm2025/)) | Early December | Wuhan / China | August 3 | C |
+| [BIBM](https://biod.whu.edu.cn/bibm2025/) | Early December | Wuhan / China | August 3 | C |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | [MICCAI](https://conferences.miccai.org/2025/en/default.asp) | September 23-27 | Daejeon / Korea | February 13 | A | 
