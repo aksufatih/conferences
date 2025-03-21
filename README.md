@@ -12,10 +12,11 @@
 | [ICIAP](https://sites.google.com/view/iciap25/home) | September 15-19 | Rome / Italy | April 15 | B |  
 | [ECAI](https://ecai2025.org/) | October 27-31 | Bologna / Italy | April 29 | A- |
 | [ICTAI]() | November 03-05 | Athens / Greece | June 12 | B |
-| [BIBM](https://ieeebibm.org/) | Early December | Wuhan / China | TBA | C |
+| [BIBM]([https://ieeebibm.org/](https://biod.whu.edu.cn/bibm2025/)) | Early December | Wuhan / China | August 3 | C |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | [MICCAI](https://conferences.miccai.org/2025/en/default.asp) | September 23-27 | Daejeon / Korea | February 13 | A | 
+| [AIME](https://aime25.aimedicine.info/) | June 23-26 | Pavia / Italy | February 3 | N/A |
 | [MLIC](https://www.icmlic.org/) | April 25-27 | Zhengzhou / China | February 1 | N/A |
 | [EMBC](https://embc.embs.org/2025/) | July 14-18 | Copenhagen / Denmark | January 31 | A- |
 | [ICCAI](https://www.iccai.net/index.html) | March 28-31 | Kyoto / Japan | January 30 | N/A |
