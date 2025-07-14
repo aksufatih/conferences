@@ -1,10 +1,10 @@
 # 2026
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
-| [MIDL](https://2026.midl.io/) | July 8-10 | Taipei / Taiwan | December 5 |  N/A |
-| [ECCV](https://eccv.ecva.net/Conferences/2026) | September 8-13 | Malmö / Sweden | March 6 | A++ |
 | [ICLR](https://iclr.cc/Conferences/2026) | TBA | Brazil | September 19 | A++ |
+| [MIDL](https://2026.midl.io/) | July 8-10 | Taipei / Taiwan | December 5 |  N/A |
 | [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December | A- |
+| [ECCV](https://eccv.ecva.net/Conferences/2026) | September 8-13 | Malmö / Sweden | March 6 | A++ |
 | [AAAI](https://aaai.org/conference/aaai/aaai-26/) | January 20-27 | Singapore | TBA | A++ |
 | [CVPR]() | TBA | Denver / USA | TBA | A++ |
 
