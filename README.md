@@ -5,6 +5,7 @@
 | [ICLR](https://iclr.cc/Conferences/2026) | TBA | Brazil | September 19 | A++ |
 | [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December | A- |
 | [AAAI](https://aaai.org/conference/aaai/aaai-26/) | January 20-27 | Singapore | TBA | A++ |
+| [CVPR]() | TBA | Denver / USA | TBA | A++ |
 
 # 2025
 | Name | Dates | Place | Deadline | GGS |
