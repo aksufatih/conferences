@@ -2,20 +2,21 @@
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
 | [ECCV](https://eccv.ecva.net/Conferences/2026) | September 8-13 | Malmö / Sweden | March 6 | A++ |
-| [AAAI](https://aaai.org/conference/aaai/aaai-26/) | January 20-27 | Singapore | TBA | A++ |
+| [ICLR](https://iclr.cc/Conferences/2026) | TBA | Brazil | September 19 | A++ |
 | [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December | A- |
+| [AAAI](https://aaai.org/conference/aaai/aaai-26/) | January 20-27 | Singapore | TBA | A++ |
 
 # 2025
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
-| [CBMS](https://2025.cbms-conference.org/) | June 18-20 | Madrid / Spain | March 21 | B |
-| [MVA](https://mva-org.jp/mva2025/index) | July 26-28 | Kyoto / Japan | March 31 | B- |
-| [ICIAP](https://sites.google.com/view/iciap25/home) | September 15-19 | Rome / Italy | April 15 | B |  
-| [ECAI](https://ecai2025.org/) | October 27-31 | Bologna / Italy | April 29 | A- |
-| [ICTAI]() | November 03-05 | Athens / Greece | June 12 | B |
 | [BIBM](https://biod.whu.edu.cn/bibm2025/) | Early December | Wuhan / China | August 3 | C |
 |  |  |  |  |  |
 |  |  |  |  |  |
+| [ICTAI]() | November 03-05 | Athens / Greece | June 12 | B |
+| [ECAI](https://ecai2025.org/) | October 27-31 | Bologna / Italy | April 29 | A- |
+| [ICIAP](https://sites.google.com/view/iciap25/home) | September 15-19 | Rome / Italy | April 15 | B |  
+| [MVA](https://mva-org.jp/mva2025/index) | July 26-28 | Kyoto / Japan | March 31 | B- |
+| [CBMS](https://2025.cbms-conference.org/) | June 18-20 | Madrid / Spain | March 21 | B |
 | [MICCAI](https://conferences.miccai.org/2025/en/default.asp) | September 23-27 | Daejeon / Korea | February 13 | A | 
 | [AIME](https://aime25.aimedicine.info/) | June 23-26 | Pavia / Italy | February 3 | N/A |
 | [MLIC](https://www.icmlic.org/) | April 25-27 | Zhengzhou / China | February 1 | N/A |
