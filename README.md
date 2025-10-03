@@ -1,21 +1,22 @@
 # 2026
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
-| [ICLR](https://iclr.cc/Conferences/2026) | TBA | Brazil | September 19 | A++ |
+| [CVPR](https://cvpr.thecvf.com/) | June 3-7 | Denver / USA | November 6 | A++ |
 | [MIDL](https://2026.midl.io/) | July 8-10 | Taipei / Taiwan | December 5 |  N/A |
-| [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December | A- |
+| [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December 20 | A- |
+| [ICHI](https://zhang-informatics.github.io/ICHI2026/index.html) | June 1-4 | Minneapolis / USA | January 31 | N/A |
 | [CBMS](https://2026.cbms-conference.org/) | June 3-5 | Limassol / Cyprus | February 20 | B |
 | [ECCV](https://eccv.ecva.net/Conferences/2026) | September 8-13 | Malmö / Sweden | March 6 | A++ |
-| [AAAI](https://aaai.org/conference/aaai/aaai-26/) | January 20-27 | Singapore | TBA | A++ |
-| [CVPR]() | TBA | Denver / USA | TBA | A++ |
+| [AAAI](https://aaai.org/conference/aaai/aaai-26/) | January 20-27 | Singapore | July 25 | A++ |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| [ICLR](https://iclr.cc/Conferences/2026) | April 23-27 | Brazil | September 19 | A++ |
 
 # 2025
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
 | [BIBM](https://biod.whu.edu.cn/bibm2025/) | Early December | Wuhan / China | August 3 | C |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| [ICTAI]() | November 03-05 | Athens / Greece | June 12 | B |
+| [ICTAI](https://ictai.computer.org/2025/) | November 03-05 | Athens / Greece | June 12 | B |
 | [ECAI](https://ecai2025.org/) | October 27-31 | Bologna / Italy | April 29 | A- |
 | [ICIAP](https://sites.google.com/view/iciap25/home) | September 15-19 | Rome / Italy | April 15 | B |  
 | [MVA](https://mva-org.jp/mva2025/index) | July 26-28 | Kyoto / Japan | March 31 | B- |
