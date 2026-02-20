@@ -1,14 +1,16 @@
 # 2026
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
-| [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December 20 | A- |
-| [ICHI](https://zhang-informatics.github.io/ICHI2026/index.html) | June 1-4 | Minneapolis / USA | January 31 | N/A |
-| [MICCAI](https://conferences.miccai.org/2026/en/default.asp) | October 4-8 | Abu Dhabi / UAE | February 12 | A | 
-| [CBMS](https://2026.cbms-conference.org/) | June 3-5 | Limassol / Cyprus | February 20 | B |
+| [CBMS](https://2026.cbms-conference.org/) | June 3-5 | Limassol / Cyprus | February 27 | B |
+| [ACM-BCB](https://acm-bcb.org/) | June 30 - July 3 | Rende / Italy | February 27 | C |
 | [ECCV](https://eccv.ecva.net/Conferences/2026) | September 8-13 | Malmö / Sweden | March 6 | A++ |
+| [BIBM](https://www3.cs.stonybrook.edu/~bibm2026/) | December 1-4 | Dallas / USA | July 5 | C |
 | [AAAI](https://aaai.org/conference/aaai/aaai-26/) | January 20-27 | Singapore | July 25 | A++ |
 |  |  |  |  |  |
 |  |  |  |  |  |
+| [MICCAI](https://conferences.miccai.org/2026/en/default.asp) | October 4-8 | Abu Dhabi / UAE | February 12 | A | 
+| [ICHI](https://zhang-informatics.github.io/ICHI2026/index.html) | June 1-4 | Minneapolis / USA | January 31 | N/A |
+| [ICPR](https://icpr2026orgteam.github.io/ICPR2026website/index.html) | August 17-21 | Lyon / France | December 20 | A- |
 | [MIDL](https://2026.midl.io/) | July 8-10 | Taipei / Taiwan | December 5 |  N/A |
 | [CVPR](https://cvpr.thecvf.com/) | June 3-7 | Denver / USA | November 6 | A++ |
 | [ICLR](https://iclr.cc/Conferences/2026) | April 23-27 | Brazil | September 19 | A++ |
