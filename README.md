@@ -10,16 +10,16 @@
 | [ISBI](https://biomedicalimaging.org/2027/) | May 25-28 | Lausanne / Switzerland | October 26, 2026 | B |
 | [IPCAI](https://sites.google.com/view/ipcai2027) | June 28-30 | Berlin / Germany | October 30, 2026 | N/A |
 | [CVPR](https://cvpr.thecvf.com/Conferences/2027) | June 20-25 | Seattle / USA | November 16, 2026 | A++ |
+| [MIDL](https://2027.midl.io/) | July 14-16 | Porto / Portugal | December 4, 2026 (abstract November 30, 2026) | N/A |
+| [IJCAI](https://2027.ijcai.org/) | August 7-17 | Kyoto / Japan + Hengqin / China | January 11, 2027 (abstract January 4, 2027) | A++ |
 | [EMBC](https://embc.embs.org/2027/) | July 11-15 | Singapore | January 24, 2027 | A- |
 | [IJCNN](https://ijcnn.org/2027/) | June 14-18 | Cape Town / South Africa | January 31, 2027 | A- |
 | [AIME](https://www.aime27.aimedicine.info/) | July 5-8 | Amsterdam / Netherlands | February 7, 2027 (abstract January 31, 2027) | N/A |
+| [ICIAP](https://iciap2027.unimore.it/) | September 13-17 | Modena / Italy | February 11, 2027 (second round April 15, 2027) | B |
 | [ECAI](https://ecai2027.org/) | October 2-7 | Athens / Greece | April 14, 2027 | A- |
-| [MIDL](https://2027.midl.io/) | July 14-16 | Porto / Portugal | TBA | N/A |
-| [IJCAI](https://2027.ijcai.org/) | August 7-17 | Kyoto / Japan + Hengqin / China | TBA | A++ |
-| [ICIAP](https://iciap2027.unimore.it/) | September 13-17 (provisional) | Modena / Italy | TBA | B |
 | [MICCAI](https://conferences.miccai.org/2027/) | Sep 27 - Oct 1 | Auckland / New Zealand | TBA | A |
+| [ICCV](https://iccv.thecvf.com/) | October 3-7 | Hong Kong | TBA | A++ |
 | [ICML](https://icml.cc/) | TBA | TBA | TBA | A++ |
-| [ICCV](https://iccv.thecvf.com/) | TBA | TBA | TBA | A++ |
 | [NeurIPS](https://neurips.cc/) | TBA | Europe (TBA) | TBA | A++ |
 | | | | | |
 | [AAAI](https://aaai.org/conference/aaai/aaai-27/) | February 16-23 | Montreal / Canada | July 28, 2026 | A++ |
