@@ -11,6 +11,7 @@
 | [IPCAI](https://sites.google.com/view/ipcai2027) | June 28-30 | Berlin / Germany | October 30, 2026 | N/A |
 | [CVPR](https://cvpr.thecvf.com/Conferences/2027) | June 20-25 | Seattle / USA | November 16, 2026 | A++ |
 | [MIDL](https://2027.midl.io/) | July 14-16 | Porto / Portugal | December 4, 2026 (abstract November 30, 2026) | N/A |
+| [IPMI](https://2027.ipmi-conf.org/) | June 27 - July 2 | Orford / Canada | December 14, 2026 (abstract December 7, 2026) | N/A |
 | [IJCAI](https://2027.ijcai.org/) | August 7-17 | Kyoto / Japan + Hengqin / China | January 11, 2027 (abstract January 4, 2027) | A++ |
 | [EMBC](https://embc.embs.org/2027/) | July 11-15 | Singapore | January 24, 2027 | A- |
 | [IJCNN](https://ijcnn.org/2027/) | June 14-18 | Cape Town / South Africa | January 31, 2027 | A- |
@@ -19,10 +20,13 @@
 | [ECAI](https://ecai2027.org/) | October 2-7 | Athens / Greece | April 14, 2027 | A- |
 | [MICCAI](https://conferences.miccai.org/2027/) | Sep 27 - Oct 1 | Auckland / New Zealand | TBA | A |
 | [ICCV](https://iccv.thecvf.com/) | October 3-7 | Hong Kong | TBA | A++ |
+| [ICIP](https://2027.ieeeicip.org/) | Nov 29 - Dec 3 | Singapore | TBA | A- |
+| [MIUA](https://warwick.ac.uk/fac/cross_fac/tia/miua2027/) | TBA | Coventry / UK | TBA | N/A |
 | [ICML](https://icml.cc/) | TBA | TBA | TBA | A++ |
 | [NeurIPS](https://neurips.cc/) | TBA | Europe (TBA) | TBA | A++ |
 | | | | | |
 | [AAAI](https://aaai.org/conference/aaai/aaai-27/) | February 16-23 | Montreal / Canada | July 28, 2026 | A++ |
+| [SPIE MI](https://spie.org/conferences-and-exhibitions/medical-imaging) | February 14-18 | Vancouver / Canada | August 5, 2026 (abstract) | N/A |
 | [WACV](https://wacv.thecvf.com/) | January 4-8 | Orlando / USA | August 28, 2026 | A |
 | [CHI](https://chi2027.acm.org/) | May 10-14 | Pittsburgh / USA | September 10, 2026 | A++ |
 | [ICASSP](https://2027.ieeeicassp.org/) | May 16-21 | Toronto / Canada | September 23, 2026 | A |
