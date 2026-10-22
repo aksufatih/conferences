@@ -26,7 +26,7 @@
 | [WACV](https://wacv.thecvf.com/) | January 4-8 | Orlando / USA | August 28, 2026 | A |
 | [CHI](https://chi2027.acm.org/) | May 10-14 | Pittsburgh / USA | September 10, 2026 | A++ |
 | [ICASSP](https://2027.ieeeicassp.org/) | May 16-21 | Toronto / Canada | September 23, 2026 | A |
-| [ICLR](https://iclr.cc/Conferences/2027) | April 26-30 | TBA | September 25, 2026 | A++ |
+| [ICLR](https://iclr.cc/Conferences/2027) | April 26-30 | California / USA | September 25, 2026 | A++ |
 | [AISTATS](https://aistats.org/aistats2027/) | May 3-6 | Montreal / Canada | October 6, 2026 | A+ |
 
 # 2026
