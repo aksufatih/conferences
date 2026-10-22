@@ -4,6 +4,30 @@
 | [AI-Driven Multimodal Intelligence for Sustainable Healthcare Systems](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2026/08/JBHI_AI-Driven-Multimodal-Intelligence_updated_Aug2026.pdf) | IEEE Journal of Biomedical and Health Informatics | 31 October 2026 |
 | [Advances in Deep Learning for Computational Pathology and Oncology Diagnostics](https://www.frontiersin.org/research-topics/83161/advances-in-deep-learning-for-computational-pathology-and-oncology-diagnostics) | Frontiers in Medical Engineering, Frontiers in Artificial Intelligence, Frontiers in Big Data | 19 March 2027 |
 
+# 2027
+| Name | Dates | Place | Deadline | GGS |
+| ---- | ----- | ----- | -------- | --- |
+| [NeurIPS](https://neurips.cc/) | TBA | Europe (TBA) | TBA | A++ |
+| [ICCV](https://iccv.thecvf.com/) | TBA | TBA | TBA | A++ |
+| [ICIAP](https://iciap2027.unimore.it/) | September 13-17 (provisional) | Modena / Italy | TBA | B |
+| [IJCAI](https://2027.ijcai.org/) | August 7-17 | Kyoto / Japan + Hengqin / China | TBA | A++ |
+| [ICML](https://icml.cc/) | TBA | TBA | TBA | A++ |
+| [MIDL](https://2027.midl.io/) | July 14-16 | Porto / Portugal | TBA | N/A |
+| [MICCAI](https://conferences.miccai.org/2027/) | Sep 27 - Oct 1 | Auckland / New Zealand | TBA | A |
+| [ECAI](https://ecai2027.org/) | October 2-7 | Athens / Greece | April 14 | A- |
+| [AIME](https://www.aime27.aimedicine.info/) | July 5-8 | Amsterdam / Netherlands | February 7 (abstract January 31) | N/A |
+| [IJCNN](https://ijcnn.org/2027/) | June 14-18 | Cape Town / South Africa | January 31 | A- |
+| [EMBC](https://embc.embs.org/2027/) | July 11-15 | Singapore | January 24 | A- |
+| [CVPR](https://cvpr.thecvf.com/Conferences/2027) | June 20-25 | Seattle / USA | November 16 | A++ |
+| [IPCAI](https://sites.google.com/view/ipcai2027) | June 28-30 | Berlin / Germany | October 30 | N/A |
+| [ISBI](https://biomedicalimaging.org/2027/) | May 25-28 | Lausanne / Switzerland | October 26 | B |
+| [AISTATS](https://aistats.org/aistats2027/) | May 3-6 | Montreal / Canada | October 6 | A+ |
+| [ICLR](https://iclr.cc/Conferences/2027) | April 26-30 | TBA | September 25 | A++ |
+| [ICASSP](https://2027.ieeeicassp.org/) | May 16-21 | Toronto / Canada | September 23 | A |
+| [CHI](https://chi2027.acm.org/) | May 10-14 | Pittsburgh / USA | September 10 | A++ |
+| [WACV](https://wacv.thecvf.com/) | January 4-8 | Orlando / USA | August 28 | A |
+| [AAAI](https://aaai.org/conference/aaai/aaai-27/) | February 16-23 | Montreal / Canada | July 28 | A++ |
+
 # 2026
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
