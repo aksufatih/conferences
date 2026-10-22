@@ -2,7 +2,7 @@
 | Special Issue | Journal | Deadline | 
 | ------------- | ------- | -------- | 
 | [AI-Driven Multimodal Intelligence for Sustainable Healthcare Systems](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2026/08/JBHI_AI-Driven-Multimodal-Intelligence_updated_Aug2026.pdf) | IEEE Journal of Biomedical and Health Informatics | 31 October 2026 |
-| [Advances in Deep Learning for Computational Pathology and Oncology Diagnostics](https://www.frontiersin.org/research-topics/83161/advances-in-deep-learning-for-computational-pathology-and-oncology-diagnostics) | Frontiers in Medical Engineering, Frontiers in Artificial Intelligence, Frontiers in Big Data | 19 March 2027 |
+| [Advances in Deep Learning for Computational Pathology and Oncology Diagnostics](https://www.frontiersin.org/research-topics/83161/advances-in-deep-learning-for-computational-pathology-and-oncology-diagnostics) | Frontiers in Artificial Intelligence | 19 March 2027 |
 
 # 2027
 | Name | Dates | Place | Deadline | GGS |
