@@ -7,7 +7,6 @@
 # 2027
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
-| [ISBI](https://biomedicalimaging.org/2027/) | May 25-28 | Lausanne / Switzerland | October 26, 2026 | B |
 | [IPCAI](https://sites.google.com/view/ipcai2027) | June 28-30 | Berlin / Germany | October 30, 2026 | N/A |
 | [CVPR](https://cvpr.thecvf.com/Conferences/2027) | June 20-25 | Seattle / USA | November 16, 2026 | A++ |
 | [MIDL](https://2027.midl.io/) | July 14-16 | Porto / Portugal | December 4, 2026 (abstract November 30, 2026) | N/A |
@@ -18,11 +17,15 @@
 | [AIME](https://www.aime27.aimedicine.info/) | July 5-8 | Amsterdam / Netherlands | February 7, 2027 (abstract January 31, 2027) | N/A |
 | [ICIAP](https://iciap2027.unimore.it/) | September 13-17 | Modena / Italy | February 11, 2027 (second round April 15, 2027) | B |
 | [ECAI](https://ecai2027.org/) | October 2-7 | Athens / Greece | April 14, 2027 | A- |
+| [SNMMI](https://snmmi.org/am) | June 5-8 | Washington, D.C. / USA | TBA | N/A |
+| [MLHC](https://mlhc.org/) | August 11-13 | Zurich / Switzerland | TBA | N/A |
+| [WCLC](https://iaslc.secure-platform.com/a/page/IASLC_Programs/WCLC27_Chairs_CoChairs) | September 11-14 | Denver / USA | TBA | N/A |
 | [MICCAI](https://conferences.miccai.org/2027/) | Sep 27 - Oct 1 | Auckland / New Zealand | TBA | A |
 | [ICCV](https://iccv.thecvf.com/) | October 3-7 | Hong Kong | TBA | A++ |
+| [EANM](https://eanm.org/congress-scientific-events/eanm27/) | October 9-13 | Hamburg / Germany | TBA | N/A |
 | [ICIP](https://2027.ieeeicip.org/) | Nov 29 - Dec 3 | Singapore | TBA | A- |
 | [MIUA](https://warwick.ac.uk/fac/cross_fac/tia/miua2027/) | TBA | Coventry / UK | TBA | N/A |
-| [ICML](https://icml.cc/) | TBA | TBA | TBA | A++ |
+| [ICML](https://icml.cc/) | TBA | South America (TBA) | TBA | A++ |
 | [NeurIPS](https://neurips.cc/) | TBA | Europe (TBA) | TBA | A++ |
 | | | | | |
 | [AAAI](https://aaai.org/conference/aaai/aaai-27/) | February 16-23 | Montreal / Canada | July 28, 2026 | A++ |
@@ -32,6 +35,7 @@
 | [ICASSP](https://2027.ieeeicassp.org/) | May 16-21 | Toronto / Canada | September 23, 2026 | A |
 | [ICLR](https://iclr.cc/Conferences/2027) | April 26-30 | California / USA | September 25, 2026 | A++ |
 | [AISTATS](https://aistats.org/aistats2027/) | May 3-6 | Montreal / Canada | October 6, 2026 | A+ |
+| [ISBI](https://biomedicalimaging.org/2027/) | May 25-28 | Lausanne / Switzerland | October 26, 2026 | B |
 
 # 2026
 | Name | Dates | Place | Deadline | GGS |
