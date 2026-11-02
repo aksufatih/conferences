@@ -1,17 +1,18 @@
 # Special Issues
 | Special Issue | Journal | Deadline | 
 | ------------- | ------- | -------- | 
-| [AI-Driven Multimodal Intelligence for Sustainable Healthcare Systems](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2026/08/JBHI_AI-Driven-Multimodal-Intelligence_updated_Aug2026.pdf) | IEEE Journal of Biomedical and Health Informatics | 31 October 2026 |
 | [Advances in Deep Learning for Computational Pathology and Oncology Diagnostics](https://www.frontiersin.org/research-topics/83161/advances-in-deep-learning-for-computational-pathology-and-oncology-diagnostics) | Frontiers in Artificial Intelligence | 19 March 2027 |
+| | | |
+| [AI-Driven Multimodal Intelligence for Sustainable Healthcare Systems](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2026/08/JBHI_AI-Driven-Multimodal-Intelligence_updated_Aug2026.pdf) | IEEE Journal of Biomedical and Health Informatics | 31 October 2026 |
 
 # 2027
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
-| [IPCAI](https://sites.google.com/view/ipcai2027) | June 28-30 | Berlin / Germany | October 30, 2026 | N/A |
 | [CVPR](https://cvpr.thecvf.com/Conferences/2027) | June 20-25 | Seattle / USA | November 16, 2026 | A++ |
 | [MIDL](https://2027.midl.io/) | July 14-16 | Porto / Portugal | December 4, 2026 (abstract November 30, 2026) | N/A |
 | [IPMI](https://2027.ipmi-conf.org/) | June 27 - July 2 | Orford / Canada | December 14, 2026 (abstract December 7, 2026) | N/A |
 | [IJCAI](https://2027.ijcai.org/) | August 7-17 | Kyoto / Japan + Hengqin / China | January 11, 2027 (abstract January 4, 2027) | A++ |
+| [CBMS](https://2027.cbms-conference.org/) | June 23-25 | Rome / Italy | January 20, 2027 | B |
 | [EMBC](https://embc.embs.org/2027/) | July 11-15 | Singapore | January 24, 2027 | A- |
 | [IJCNN](https://ijcnn.org/2027/) | June 14-18 | Cape Town / South Africa | January 31, 2027 | A- |
 | [AIME](https://www.aime27.aimedicine.info/) | July 5-8 | Amsterdam / Netherlands | February 7, 2027 (abstract January 31, 2027) | N/A |
@@ -23,6 +24,7 @@
 | [MICCAI](https://conferences.miccai.org/2027/) | Sep 27 - Oct 1 | Auckland / New Zealand | TBA | A |
 | [ICCV](https://iccv.thecvf.com/) | October 3-7 | Hong Kong | TBA | A++ |
 | [EANM](https://eanm.org/congress-scientific-events/eanm27/) | October 9-13 | Hamburg / Germany | TBA | N/A |
+| [NSS/MIC](https://ieee-npss.org/) | Oct 30 - Nov 6 | Pasadena / USA | TBA | N/A |
 | [ICIP](https://2027.ieeeicip.org/) | Nov 29 - Dec 3 | Singapore | TBA | A- |
 | [MIUA](https://warwick.ac.uk/fac/cross_fac/tia/miua2027/) | TBA | Coventry / UK | TBA | N/A |
 | [ICML](https://icml.cc/) | TBA | South America (TBA) | TBA | A++ |
@@ -36,6 +38,7 @@
 | [ICLR](https://iclr.cc/Conferences/2027) | April 26-30 | California / USA | September 25, 2026 | A++ |
 | [AISTATS](https://aistats.org/aistats2027/) | May 3-6 | Montreal / Canada | October 6, 2026 | A+ |
 | [ISBI](https://biomedicalimaging.org/2027/) | May 25-28 | Lausanne / Switzerland | October 26, 2026 | B |
+| [IPCAI](https://sites.google.com/view/ipcai2027) | June 28-30 | Berlin / Germany | October 30, 2026 | N/A |
 
 # 2026
 | Name | Dates | Place | Deadline | GGS |
