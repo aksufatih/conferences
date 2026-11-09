@@ -5,6 +5,13 @@
 | | | |
 | [AI-Driven Multimodal Intelligence for Sustainable Healthcare Systems](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2026/08/JBHI_AI-Driven-Multimodal-Intelligence_updated_Aug2026.pdf) | IEEE Journal of Biomedical and Health Informatics | 31 October 2026 |
 
+# 2028
+| Name | Dates | Place | Deadline | GGS |
+| ---- | ----- | ----- | -------- | --- |
+| [ICASSP](https://2028.ieeeicassp.org/) | May 28 - June 2 | Tokyo / Japan | TBA | A |
+| [EMBC](https://embc.embs.org/2028/) | July 24-28 | Florence / Italy | TBA | A- |
+| [MICCAI](https://conferences.miccai.org/2028/) | October 16-20 | São Paulo / Brazil | TBA | A |
+
 # 2027
 | Name | Dates | Place | Deadline | GGS |
 | ---- | ----- | ----- | -------- | --- |
@@ -15,10 +22,13 @@
 | [CBMS](https://2027.cbms-conference.org/) | June 23-25 | Rome / Italy | January 20, 2027 | B |
 | [EMBC](https://embc.embs.org/2027/) | July 11-15 | Singapore | January 24, 2027 | A- |
 | [IJCNN](https://ijcnn.org/2027/) | June 14-18 | Cape Town / South Africa | January 31, 2027 | A- |
+| [CHIL](https://chil.ahli.cc/) | June 28-30 | Chicago / USA | February 3, 2027 | N/A |
 | [AIME](https://www.aime27.aimedicine.info/) | July 5-8 | Amsterdam / Netherlands | February 7, 2027 (abstract January 31, 2027) | N/A |
 | [ICIAP](https://iciap2027.unimore.it/) | September 13-17 | Modena / Italy | February 11, 2027 (second round April 15, 2027) | B |
+| [ACM-BCB](https://acm-bcb.org/) | August 10-13 | Boston / USA | March 26, 2027 (abstract March 19, 2027) | C |
 | [ECAI](https://ecai2027.org/) | October 2-7 | Athens / Greece | April 14, 2027 | A- |
 | [SNMMI](https://snmmi.org/am) | June 5-8 | Washington, D.C. / USA | TBA | N/A |
+| [ICML](https://icml.cc/Conferences/2027) | July 31 - Aug 6 | Rio de Janeiro / Brazil | TBA | A++ |
 | [MLHC](https://mlhc.org/) | August 11-13 | Zurich / Switzerland | TBA | N/A |
 | [WCLC](https://iaslc.secure-platform.com/a/page/IASLC_Programs/WCLC27_Chairs_CoChairs) | September 11-14 | Denver / USA | TBA | N/A |
 | [MICCAI](https://conferences.miccai.org/2027/) | Sep 27 - Oct 1 | Auckland / New Zealand | TBA | A |
@@ -27,7 +37,6 @@
 | [NSS/MIC](https://ieee-npss.org/) | Oct 30 - Nov 6 | Pasadena / USA | TBA | N/A |
 | [ICIP](https://2027.ieeeicip.org/) | Nov 29 - Dec 3 | Singapore | TBA | A- |
 | [MIUA](https://warwick.ac.uk/fac/cross_fac/tia/miua2027/) | TBA | Coventry / UK | TBA | N/A |
-| [ICML](https://icml.cc/) | TBA | South America (TBA) | TBA | A++ |
 | [NeurIPS](https://neurips.cc/) | TBA | Europe (TBA) | TBA | A++ |
 | | | | | |
 | [AAAI](https://aaai.org/conference/aaai/aaai-27/) | February 16-23 | Montreal / Canada | July 28, 2026 | A++ |
