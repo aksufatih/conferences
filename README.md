@@ -19,23 +19,23 @@
 | [MIDL](https://2027.midl.io/) | July 14-16 | Porto / Portugal | December 4, 2026 (abstract November 30, 2026) | N/A |
 | [IPMI](https://2027.ipmi-conf.org/) | June 27 - July 2 | Orford / Canada | December 14, 2026 (abstract December 7, 2026) | N/A |
 | [IJCAI](https://2027.ijcai.org/) | August 7-17 | Kyoto / Japan + Hengqin / China | January 11, 2027 (abstract January 4, 2027) | A++ |
+| [SNMMI](https://snmmi.org/am) | June 5-8 | Washington, D.C. / USA | January 11, 2027 (abstract) | N/A |
 | [CBMS](https://2027.cbms-conference.org/) | June 23-25 | Rome / Italy | January 20, 2027 | B |
+| [ICML](https://icml.cc/Conferences/2027) | July 31 - Aug 6 | Rio de Janeiro / Brazil | January 22, 2027 (abstract January 14, 2027) | A++ |
 | [EMBC](https://embc.embs.org/2027/) | July 11-15 | Singapore | January 24, 2027 | A- |
 | [IJCNN](https://ijcnn.org/2027/) | June 14-18 | Cape Town / South Africa | January 31, 2027 | A- |
 | [CHIL](https://chil.ahli.cc/) | June 28-30 | Chicago / USA | February 3, 2027 | N/A |
 | [AIME](https://www.aime27.aimedicine.info/) | July 5-8 | Amsterdam / Netherlands | February 7, 2027 (abstract January 31, 2027) | N/A |
 | [ICIAP](https://iciap2027.unimore.it/) | September 13-17 | Modena / Italy | February 11, 2027 (second round April 15, 2027) | B |
 | [ACM-BCB](https://acm-bcb.org/) | August 10-13 | Boston / USA | March 26, 2027 (abstract March 19, 2027) | C |
+| [ICIP](https://2027.ieeeicip.org/) | Nov 29 - Dec 3 | Singapore | March 31, 2027 | A- |
 | [ECAI](https://ecai2027.org/) | October 2-7 | Athens / Greece | April 14, 2027 | A- |
-| [SNMMI](https://snmmi.org/am) | June 5-8 | Washington, D.C. / USA | TBA | N/A |
-| [ICML](https://icml.cc/Conferences/2027) | July 31 - Aug 6 | Rio de Janeiro / Brazil | TBA | A++ |
 | [MLHC](https://mlhc.org/) | August 11-13 | Zurich / Switzerland | TBA | N/A |
 | [WCLC](https://iaslc.secure-platform.com/a/page/IASLC_Programs/WCLC27_Chairs_CoChairs) | September 11-14 | Denver / USA | TBA | N/A |
 | [MICCAI](https://conferences.miccai.org/2027/) | Sep 27 - Oct 1 | Auckland / New Zealand | TBA | A |
 | [ICCV](https://iccv.thecvf.com/) | October 3-7 | Hong Kong | TBA | A++ |
 | [EANM](https://eanm.org/congress-scientific-events/eanm27/) | October 9-13 | Hamburg / Germany | TBA | N/A |
 | [NSS/MIC](https://ieee-npss.org/) | Oct 30 - Nov 6 | Pasadena / USA | TBA | N/A |
-| [ICIP](https://2027.ieeeicip.org/) | Nov 29 - Dec 3 | Singapore | TBA | A- |
 | [MIUA](https://warwick.ac.uk/fac/cross_fac/tia/miua2027/) | TBA | Coventry / UK | TBA | N/A |
 | [NeurIPS](https://neurips.cc/) | TBA | Europe (TBA) | TBA | A++ |
 | | | | | |
